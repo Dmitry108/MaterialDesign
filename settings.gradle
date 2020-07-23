@@ -1,2 +1,2 @@
-include ':app', ':lesson_1'
+include ':app', ':lesson_1', ':lesson_2'
 rootProject.name='MaterialDesign'

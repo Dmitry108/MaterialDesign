@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson_2</string>
+    <string name="name">Name</string>
+    <string name="names_rule">Not more then 10 characters</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="bottom_sheet_head">The head of a bottom seet</string>
+    <string name="ok">Ok</string>
+    <string name="bottom_sheet_body">The body of a bottom sheet</string>
+    <string name="show_bottom_sheet">Show bottom sheet</string>
+</resources>
