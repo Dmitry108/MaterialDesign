@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mnu_walk"
+            android:icon="@drawable/ic_directions_walk_black_24dp"
+            android:title="@string/walk" />
+        <item
+            android:id="@+id/mnu_bike"
+            android:icon="@drawable/ic_directions_bike_black_24dp"
+            android:title="@string/bike" />
+        <item
+            android:id="@+id/mnu_motorcycle"
+            android:icon="@drawable/ic_motorcycle_black_24dp"
+            android:title="@string/motorcycle" />
+        <item
+            android:id="@+id/mnu_car"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="@string/car" />
+        <item
+            android:id="@+id/mnu_bus"
+            android:icon="@drawable/ic_directions_bus_black_24dp"
+            android:title="@string/bus" />
+        <item
+            android:id="@+id/mnu_train"
+            android:icon="@drawable/ic_directions_transit_black_24dp"
+            android:title="@string/train" />
+        <item
+            android:id="@+id/mnu_plan"
+            android:icon="@drawable/ic_airplanemode_active_black_24dp"
+            android:title="@string/plan" />
+        <item
+            android:id="@+id/mnu_boat"
+            android:icon="@drawable/ic_directions_boat_black_24dp"
+            android:title="@string/boat" />
+    </group>
+
+    <item android:title="@string/communication">
+        <menu>
+            <item
+                android:id="@+id/mnu_phone"
+                android:icon="@drawable/ic_call_black_24dp"
+                android:title="@string/phone" />
+            <item
+                android:id="@+id/mnu_letter"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="@string/letter" />
+        </menu>
+    </item>
+</menu>

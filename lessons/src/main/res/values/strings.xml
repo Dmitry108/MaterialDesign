@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Material Design Lessons</string>
+    <string name="name">Name</string>
+    <string name="names_rule">Not more then 10 characters</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="bottom_sheet_head">The head of a bottom seet</string>
+    <string name="ok">Ok</string>
+    <string name="bottom_sheet_body">The body of a bottom sheet</string>
+    <string name="show_bottom_sheet">Show bottom sheet</string>
+    <string name="text">Text</string>
+    <string name="bordered_text">Bordered</string>
+    <string name="bordered">Bordered</string>
+    <string name="raised">Raised</string>
+    <string name="person">Person</string>
+    <string name="walk">Walk</string>
+    <string name="bike">Bike</string>
+    <string name="motorcycle">Motorbike</string>
+    <string name="car">Car</string>
+    <string name="bus">Bus</string>
+    <string name="train">Train</string>
+    <string name="plan">Airplan</string>
+    <string name="boat">Boat</string>
+    <string name="phone">Phone</string>
+    <string name="letter">Letter</string>
+    <string name="communication">Communication</string>
+    <string name="transport">Transport</string>
+    <string name="navigation">Navigation</string>
+    <string name="email">email@gmail.com</string>
+    <string name="image">Image</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="begin">Begin</string>
+    <string name="finish">Finish</string>
+    <string name="line">Line</string>
+    <string name="circle">Circle</string>
+</resources>
