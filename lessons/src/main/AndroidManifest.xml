@@ -29,6 +29,10 @@
 
         </activity>
         <activity android:name=".ProgerssbarAvtivity">
+
+        </activity>
+        <activity android:name=".CollapsingActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
