@@ -5,4 +5,5 @@
     <dimen name="drawer_header_padding">16dp</dimen>
     <dimen name="drawer_header_padding_top">8dp</dimen>
     <dimen name="main_padding">48dp</dimen>
+    <dimen name="recycler_margin">16dp</dimen>
 </resources>

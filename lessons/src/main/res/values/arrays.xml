@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="pic">
+        <item>@drawable/pic1</item>
+        <item>@drawable/pic2</item>
+        <item>@drawable/pic3</item>
+    </integer-array>
+    <string-array name="title">
+        <item>Три кота</item>
+        <item>Коти мышь</item>
+        <item>Кот на стене</item>
+    </string-array>
+</resources>
