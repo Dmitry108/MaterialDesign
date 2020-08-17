@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bmn_walk"
+        android:icon="@drawable/ic_directions_walk_black_24dp"
+        android:title="@string/walk" />
+    <item
+        android:id="@+id/bmn_car"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="@string/car" />
+    <item
+        android:id="@+id/bmn_bus"
+        android:icon="@drawable/ic_directions_bus_black_24dp"
+        android:title="@string/bus" />
+</menu>
