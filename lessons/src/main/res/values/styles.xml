@@ -8,6 +8,24 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="colorPrimarySurface">@color/colorPrimaryLight</item>
     </style>
+    <style name="AppThemePurple" parent="AppTheme">
+        <item name="colorPrimary">@color/deep_purple_primary</item>
+        <item name="colorPrimaryDark">@color/deep_purple_primary_dark</item>
+        <item name="colorAccent">@color/deep_purple_accent</item>
+        <item name="colorPrimarySurface">@color/deep_purple_primary_light</item>
+    </style>
+    <style name="AppThemeBrown" parent="AppTheme">
+        <item name="colorPrimary">@color/brown_primary</item>
+        <item name="colorPrimaryDark">@color/brown_primary_dark</item>
+        <item name="colorPrimarySurface">@color/brown_primary_light</item>
+        <item name="colorAccent">@color/brown_accent</item>
+    </style>
+    <style name="AppThemeYellow" parent="Platform.MaterialComponents.Light">
+        <item name="colorPrimary">@color/yellow_primary</item>
+        <item name="colorPrimaryDark">@color/yellow_primary_dark</item>
+        <item name="colorPrimarySurface">@color/yellow_primary_light</item>
+        <item name="colorAccent">@color/yellow_accent</item>
+    </style>
 
     <style name="AppTheme.NoActionBar">
         <item name="windowNoTitle">true</item>
@@ -15,4 +33,20 @@
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Dark"/>
+
+    <style name="MyButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/holo_orange_light</item>
+        <item name="backgroundTint">@android:color/holo_purple</item>
+        <item name="iconTint">@android:color/holo_blue_bright</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@android:color/black</item>
+    </style>
+
+    <style name="MyButtonRectStyle" parent="MyButtonStyle">
+        <item name="cornerRadius">2dp</item>
+        <item name="rippleColor">@android:color/holo_orange_light</item>
+    </style>
 </resources>
