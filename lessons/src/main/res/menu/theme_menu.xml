@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnu_theme_green"
+        android:icon="@drawable/ic_circle"
+        android:title="@string/green"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnu_theme_purple"
+        android:icon="@drawable/ic_circle_purple"
+        android:title="@string/purple"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnu_theme_brown"
+        android:icon="@drawable/ic_circle_brown"
+        android:title="@string/brown"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnu_theme_yellow"
+        android:icon="@drawable/ic_circle_yellow"
+        android:title="@string/yellow"
+        app:showAsAction="always" />
+
+</menu>
